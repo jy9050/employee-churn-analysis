@@ -16,6 +16,11 @@ Employee dataset containing demographic, job-related, and satisfaction features.
 - Model: Logistic Regression
 - Target: Attrition (Yes/No)
 
+## 📓 Notebook
+
+The full analysis and machine learning model can be found in:
+`notebooks/churn_analysis.ipynb`
+
 ## 💡 Key Insights
 - Employees working overtime are more likely to leave
 - Low job satisfaction strongly impacts attrition
