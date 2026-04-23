@@ -26,5 +26,11 @@ The full analysis and machine learning model can be found in:
 - Low job satisfaction strongly impacts attrition
 - Salary plays a key role in retention
 
+  ## 🔍 Key Drivers of Attrition
+
+- Overtime
+- Job Satisfaction
+- Monthly Income
+
 ## 📈 Conclusion
 Organizations can reduce attrition by improving employee satisfaction and managing workload effectively.
